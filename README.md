@@ -1,9 +1,14 @@
-# Proyecto - Wiimote en linux
+<div align='center'>
+  <a>
+    <img src="https://github.com/user-attachments/assets/7a3b7ab5-d9c9-45b5-8fcb-3a9b7cec8bae" alt="Icon" style="max-width: 20%;">
+  </a>
+  <h1>❰ 𝙒𝙞𝙞𝙢𝙤𝙩𝙚 𝙚𝙣 𝙡𝙞𝙣𝙪𝙭 ❱</h1>
+</div>
 
 Proyecto universitario para la materia de Sistemas Operativos II, este proyecto permite la interacción con un control Wiimote utilizando una interfaz gráfica en la terminal usando la conexión bluetooth.
 Una de las utilidades de este proyecto es para la prueba de un driver desarrollado para Linux, usando la menor cantidad de código para poder desplegar y mostrar el input del control.
 
-## Uso
+## ⚙️ Uso
 
 Recordemos de que se ocupo lo minimo de código para la ejecución del código, con los archivos que se encuentran en el repositorio es suficiente para su compilación y ejecución del proyecto. Lo unico a considerar es que todo se probo en un entorno de Linux (Arch Linux).
 
@@ -41,7 +46,6 @@ Recordemos de que se ocupo lo minimo de código para la ejecución del código, 
 
 ## Estructura del Proyecto
 
-El proyecto tiene la siguiente estructura:
 - `mainWiimote.c`: Contiene la función principal y la lógica de inicialización del programa.
 - `handleInputWiimote.c`: Maneja la entrada de datos del Wiimote, usando la libreria correspondiente.
 - `visualsWiimote.c`: Contiene las funciones para la interfaz gráfica en la terminal.
