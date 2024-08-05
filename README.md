@@ -1,6 +1,6 @@
 <div align='center'>
   <a>
-    <img src="https://github.com/user-attachments/assets/7a3b7ab5-d9c9-45b5-8fcb-3a9b7cec8bae" alt="Icon" style="max-width: 20%;">
+    <img src="https://github.com/user-attachments/assets/7a3b7ab5-d9c9-45b5-8fcb-3a9b7cec8bae" alt="Icon" style="max-width: 192px; max-height: 192px;">
   </a>
   <h1>❰ 𝙒𝙞𝙞𝙢𝙤𝙩𝙚 𝙚𝙣 𝙡𝙞𝙣𝙪𝙭 ❱</h1>
 </div>
